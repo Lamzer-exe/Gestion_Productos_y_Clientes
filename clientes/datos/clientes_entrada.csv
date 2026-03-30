@@ -1,0 +1,7 @@
+tipo,nombre,email,telefono,empresa
+ClienteRegular,Ana García,ana.garcia@email.com,5551234567,
+ClientePremium,Carlos Rodríguez,carlos.rodriguez@empresa.com,5559876543,
+ClienteCorporativo,María López,maria.lopez@techcorp.com,5555555555,TechCorp S.A.
+ClienteRegular,Juan Martínez,juan.martinez@gmail.com,5552223333,
+ClientePremium,Laura Sánchez,laura.sanchez@outlook.com,5554445566,
+ClienteCorporativo,Pedro Hernández,pedro@megaempresa.com,5557778899,MegaEmpresa Inc.
